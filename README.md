@@ -1,0 +1,2 @@
+# IdleYoungMaster
+Idle Game
