@@ -17,7 +17,7 @@ The core gameplay loop revolves around flaunting wealth, engaging in social inte
 - **Progression:** Milestone-based
 - **Core Mechanics:**
   - Passive and active income sources
-  - Social reputation management
+  - ~Social reputation management~
   - Investment and resource allocation
   - Prestige/rebirth system for long-term progression
 
@@ -31,7 +31,7 @@ The core gameplay loop revolves around flaunting wealth, engaging in social inte
 ### **2. Resource Management**
 - **Wealth** – Money gained through investments, family gifts, and passive income streams.
 - **Reputation** – Maintaining an image of success through extravagant displays and social dominance.
-- **Favor & Connections** – Gained through social interactions and networking; allows access to exclusive opportunities.
+- ~**Favor & Connections** – Gained through social interactions and networking; allows access to exclusive opportunities.~
 
 ### **3. Social Events & Interactions**
 - **Buying Rounds of Drinks** – Gain favor with influential characters, but at a cost.
@@ -57,34 +57,30 @@ The core gameplay loop revolves around flaunting wealth, engaging in social inte
 
 ### **Mid to Late-Game Upgrades** (Examples)
 - **"The Hidden Genius"** – Unlock secret skills that impress high society.
-- **"Master of Manipulation"** – Influence people to work in your favor.
+- ~**"Master of Manipulation"** – Influence people to work in your favor.~
 - **"The Patriarch’s Favorite"** – Gain access to exclusive investments and support.
 - **"Secret Business Empire"** – Build your own fortune behind the scenes.
 
 ## **Prestige/Rebirth System**
 - Players can reset their progress in exchange for permanent bonuses, such as:
   - Higher starting wealth
-  - Stronger social influence
+  - ~Stronger social influence~
   - Special abilities or passive effects
   - **Estate upgrades** – Transform your home from a villa into an elite mansion, then into a grand palace.
 
 ## **Expansion: Underground Dealings**
 - **Black Market Ventures** – Secretly fund illicit activities for massive but risky profits.
-- **Shady Connections** – Gain access to underground figures who can remove rivals or influence high society behind the scenes.
-- **Dual Reputation System** – Maintain a public persona while secretly growing an empire through unsanctioned dealings.
+- **Shady Connections** – Gain access to underground figures who can remove rivals or influence high society behind the scenes. (auto progression of challanges after rebirth)
+- ~**Dual Reputation System** – Maintain a public persona while secretly growing an empire through unsanctioned dealings.~
 - **Corrupt Officials & Bribes** – Buy your way out of trouble or into exclusive opportunities.
 
 ## **Art & Theme**
-- **Aesthetic:** Luxurious high society with elegant characters, lavish parties, and opulent environments.
+- **Aesthetic:** everywhere but home is somewhat grimy otherwise Luxurious high society with elegant characters, lavish parties, and opulent environments.
 - **Tone:** Lighthearted satire of aristocracy with humorous undertones.
 - **UI Design:** Clean and stylish, resembling a socialite’s ledger or high-society invitation.
 
 ## **Potential Expansion Ideas**
-- **Elite Marriage System** – Gain political and financial benefits through arranged marriages.
-- **Dual Reputation Paths** – Choose between becoming a respected noble or a scandalous rogue.
-- **Underground Dealings (Now Implemented)** – A secret alternative path involving black-market dealings and secret businesses.
+- **Underground Dealings ** – A secret alternative path involving black-market dealings and secret businesses.
 
----
-This refined document now includes the home screen concept with visual progression through estate upgrades and underground dealings. Let me know if you'd like to expand further!
 
 
